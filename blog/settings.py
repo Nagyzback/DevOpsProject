@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'blog',
         'USER': 'user',
         'PASSWORD': 'pass',
-        'HOST': 'db',
+        'HOST': 'postgres',
         'PORT': '5432',
     }
 }
